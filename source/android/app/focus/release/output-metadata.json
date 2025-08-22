@@ -1,0 +1,64 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "org.mozilla.focus",
+  "variantName": "focusRelease",
+  "elements": [
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "x86_64"
+        }
+      ],
+      "attributes": [],
+      "versionCode": 392341757,
+      "versionName": "1.0.2534",
+      "outputFile": "app-focus-x86_64-release.apk"
+    },
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "x86"
+        }
+      ],
+      "attributes": [],
+      "versionCode": 392341756,
+      "versionName": "1.0.2534",
+      "outputFile": "app-focus-x86-release.apk"
+    },
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "armeabi-v7a"
+        }
+      ],
+      "attributes": [],
+      "versionCode": 392341754,
+      "versionName": "1.0.2534",
+      "outputFile": "app-focus-armeabi-v7a-release.apk"
+    },
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "arm64-v8a"
+        }
+      ],
+      "attributes": [],
+      "versionCode": 392341755,
+      "versionName": "1.0.2534",
+      "outputFile": "app-focus-arm64-v8a-release.apk"
+    }
+  ],
+  "elementType": "File"
+}
