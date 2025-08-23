@@ -24,6 +24,7 @@
    
 ### ⚙️ איך יוצרים רשימת לבנה
 
+<div dir="rtl">
 1. מורידים למחשב את **WhitelistGenerator.exe**.  
 
 2. הרשימה הלבנה מחולקת ל-3 קטגוריות עיקריות:
@@ -54,6 +55,7 @@
 `google.com`  
 `duckduckgo.com`  
 `bing.com`
+</div>
 
 ---
 
