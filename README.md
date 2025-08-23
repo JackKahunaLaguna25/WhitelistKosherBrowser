@@ -44,16 +44,16 @@
 > הערה: מאחר שרוב האתרים מפנים לנתיבים ולפעמים לסאב-דומיינים, בדרך כלל כדאי להשתמש בקטגוריה הראשונה או השנייה כדי לוודא שהאתר יעבוד בצורה תקינה.
 
 3. כתובת נכונה לדוגמה:  
-example.com
+`עםם.com`
 
 4. כתובות שגויות לדוגמה:  
-https://example.com  
-www.example.com
+`https://google.com`  
+`www.google.com`
 
 5. יש להפריד בין כתובות שונות על ידי כתיבה בשורה חדשה, לדוגמה:  
-example.com  
-example2.com  
-example3.com
+`google.com`  
+`duckduckgo.com`  
+`bing.com`
 
 ---
 
