@@ -53,7 +53,7 @@
 5. יש להפריד בין כתובות שונות על ידי כתיבה בשורה חדשה, לדוגמה:  
 `google.com`  
 `duckduckgo.com`  
-<div dir="rtl"> `bing.com` </div>
+`bing.com`
 
 ---
 
