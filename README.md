@@ -54,6 +54,8 @@
 `google.com`  
 `duckduckgo.com`  
 `bing.com`
+6. לוחצים על הכפתור 'Generate whitelist.enc' (צור whitelist.enc) ליצירת הרשימה ושומרים את הקובץ בכל שם שנרצה.  
+   הקובץ ייווצר עם סיומת: .enc  
 
 ---
 
