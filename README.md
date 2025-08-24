@@ -146,6 +146,7 @@ Separate different addresses by writing on a new line, for example:
    - Go to Settings.  
    - Click on Load White List.  
    - Choose the .enc file we created earlier using WhitelistGenerator.exe.
+
 ✅ From now on, only the addresses entered in the list will be accessible.
 ---
 ### 📖 Additional Details
