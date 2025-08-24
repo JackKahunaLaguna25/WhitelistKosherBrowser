@@ -148,6 +148,7 @@ Separate different addresses by writing on a new line, for example:
    - Choose the .enc file we created earlier using WhitelistGenerator.exe.
 
 ✅ From now on, only the addresses entered in the list will be accessible.
+
 ---
 ### 📖 Additional Details
 The browser is based on a customized version of Firefox Focus, so it displays websites with Firefox's own Gecko engine, instead of using Android's built-in Android System Webview engine. This browser feature allows users who want to remove Android System Webview to browse the internet without dependencies on this component.
